@@ -13,7 +13,7 @@ namespace HelloWorldGroup
             Console.WriteLine("Hello Universe!");
             Console.WriteLine("Hello fellas");
             Console.WriteLine("Whazaaap");
-            Console.WriteLine();
+            Console.WriteLine("Φέτα, σουβλάκι, τζατζίκι");
         }
     }
 }

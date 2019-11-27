@@ -16,13 +16,15 @@ namespace HelloWorldGroup
             Console.WriteLine("Whazaaap");
             Console.WriteLine("Φέτα, σουβλάκι, τζατζίκι");
             int counter = 0;
-            while (counter != 100)
+            while (counter != 4)
             {
                 
                 Console.WriteLine("Need a vacation!!!");
                 Console.WriteLine("WorldHello");
+
             }
 
+            Console.WriteLine("abc");
             Console.ReadKey();
         }
     }
